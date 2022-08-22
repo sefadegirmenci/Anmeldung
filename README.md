@@ -16,5 +16,5 @@ Open up the jupyter notebook, configure date preferences, chrome driver path and
 - [ ] Automatic registration can be implemented.
 
 
-<b>!!! This project is only designed for personal usage. Profitting from this project is not allowed. </b>
+<b>!!! This project is only designed for personal usage. Profitting from this project is not allowed as it might put other people in a systematic disadvantage. Therefore, this project might be considered as a non-open source project. </b>
 
