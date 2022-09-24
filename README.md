@@ -5,6 +5,7 @@ Instead of constantly checking the website and wasting time, this project checks
 
 ## Usage
 Open up the jupyter notebook, configure date preferences, chrome driver path and the discord webhook. Run the cell.
+To use gui, and the automatic registration, you need to update line 76 of "Anmeldung_GUI.py".
 
 ## Requirements
 * Jupyter Notebook
